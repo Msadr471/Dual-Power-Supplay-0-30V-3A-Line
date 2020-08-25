@@ -1,0 +1,15 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~P-S 0-30V 3A Line.PrjPcb|ReportField=ProjectFullPath~E:\Electronics\All Projects\Dual Power Supplay 0-30V 3A Line\Schematic and PCB\P-S 0-30V 3A Line\P-S 0-30V 3A Line.PrjPcb|ReportField=Title~Bill of Materials For Project [P-S 0-30V 3A Line.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~33|ReportField=ReportTime~16:42:43|ReportField=ReportDate~14/07/2017|ReportField=ReportDateTime~14/07/2017 16:42:43|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~L3, 12a Rodborough Rd|ReportField=Address2~Frenchs Forest|ReportField=Address3~NSW|ReportField=Address4~Australia 2086|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~|ReportField=Organization~Altium Limited|ReportField=ProjectName~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~P-S 0-30V 3A Line.PrjPcb|ReportField=DataSourceFullPath~E:\Electronics\All Projects\Dual Power Supplay 0-30V 3A Line\Schematic and PCB\P-S 0-30V 3A Line\P-S 0-30V 3A Line.PrjPcb
+1uF|Polar Capacitor|C1, C3, C5, C6, C11, C13|cap 02|Cap-Polar
+100nF|Bipolar Capacitor|C2, C7|Cap - 100nF|Cap-Bipolar
+100nF|Bipolar Capacitor|C4, C10, C12|Cap - 100nF - 2|Cap-Bipolar
+4700uF|Polar Capacitor|C8|CAP 05|Cap-Polar
+100uF|Polar Capacitor|C9|cap 02|Cap-Polar
+LED|LED|D1, D2|Blue LED 5mm|LED Full color
+Bridge2|Diode Bridge|D3|D-46_6A|Bridge2
+Header 2|Header, 2-Pin|I4, O1, O2, O5, O12|HDR1X2|Header 2
+1K|Resistor|R1, R3, R4, R6|Res-(1/4)|Resistor
+POT||R2, R5|VOL_1|POT
+2N3055|Header, 3-Pin|T1, T2|HDR1X3|Header 3
+MC7812T||U1|TO220V|MC7812T
+Volt Reg|LM337|U2, U4|TO220|Volt reg 3
+MC7805T||U3|TO220V|MC7805T
